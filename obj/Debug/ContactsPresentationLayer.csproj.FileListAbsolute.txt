@@ -1,0 +1,17 @@
+C:\Users\User\Source\Repos\Contacts\obj\Debug\ContactsPresentationLayer.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Contacts\obj\Debug\ContactsPresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\Contacts\obj\Debug\Contacts.frmListContacts.resources
+C:\Users\User\Source\Repos\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\User\Source\Repos\Contacts\obj\Debug\ContactsPresentationLayer.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\Contacts\obj\Debug\ContactsPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\User\Source\Repos\Contacts\bin\Debug\Contacts.exe
+C:\Users\User\Source\Repos\Contacts\bin\Debug\Contacts.pdb
+C:\Users\User\Source\Repos\Contacts\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\User\Source\Repos\Contacts\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\User\Source\Repos\Contacts\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\User\Source\Repos\Contacts\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\User\Source\Repos\Contacts\obj\Debug\ContactsPresentationLayer.csproj.CopyComplete
+C:\Users\User\Source\Repos\Contacts\obj\Debug\Contacts.exe
+C:\Users\User\Source\Repos\Contacts\obj\Debug\Contacts.pdb
+C:\Users\User\Source\Repos\Contacts\obj\Debug\Contacts.frmAddEditContact.resources
